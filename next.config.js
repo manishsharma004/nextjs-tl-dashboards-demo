@@ -5,7 +5,7 @@ const nextConfig = {
   },
   experimental: {
     appDir: true,
-    serverComponentsExternalPackages: ['@tremor/react']
+    serverComponentsExternalPackages: ['@tremor/react'],
   }
 };
 
